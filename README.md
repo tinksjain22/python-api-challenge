@@ -2,7 +2,8 @@
 
 Welcome to the Python API Challenge! This repository is designed to apply knowledge of Python, APIs, and data visualization to analyze and visualize weather data.
 
-![Image](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-0ZQ6_92FRf09oY53TzeYw.gif)
+![Nature Climate change](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-019-0670-y/MediaObjects/41558_2019_670_Fig1_HTML.png)
+[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41558-019-0670-y&psig=AOvVaw04f9_5XN-RAtQxRH7RKWpS&ust=1726597145858000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLD10eaJyIgDFQAAAAAdAAAAABAn)
 
 The following files are present inside the WeatherPy folder:
 
